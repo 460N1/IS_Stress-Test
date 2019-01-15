@@ -14,7 +14,7 @@ import ssl
 import sys
 import time
 
-#mundesimi i perfshirjes te argumenteve ne komand
+#mundesimi i perfshirjes te argumenteve ne komanden python ISSulm.py
 #dhe percaktimi manual i help komandes
 parser = argparse.ArgumentParser(description="IS Sulmues - stress test tool i thjeshte.", add_help=False)
 parser.add_argument('host', nargs="?", help="Caku qe do e stresojme.")
