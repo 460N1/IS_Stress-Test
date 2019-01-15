@@ -1,11 +1,11 @@
 @ECHO OFF
 
-REM --- /****************************************************\
-REM --- |         AUTORI:  Agon Hoxha,  140704110004         |
-REM --- |    LENDA: Siguria ne Internet,  VITI: 2018/2019    |
-REM --- |    DETYRA:  Zhvillim i aplikacionit qe mundeson    |
-REM --- |    stress testing te nje sajti te caktuar,   #6    |
-REM --- \****************************************************/
+REM --- /************************************************\
+REM --- |       AUTORI:  Agon Hoxha,  140704110004       |
+REM --- |  LENDA: Siguria ne Internet,  VITI: 2018/2019  |
+REM --- |  DETYRA:  Zhvillim i aplikacionit qe mundeson  |
+REM --- |  stress testing te nje sajti te caktuar,   #6  |
+REM --- \************************************************/
 
 	START cmd /c python ISSulm.py getintopc.com -q
 
