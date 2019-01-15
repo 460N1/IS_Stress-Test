@@ -144,7 +144,7 @@ def main():
         
         #handling veprimin ctrl+c te userit
         except (KeyboardInterrupt, SystemExit):
-            logging.info("\nSulmi eshte ndalur.")
+            logging.info("Sulmi eshte ndalur.")
             break
 
 if __name__ == "__main__":
