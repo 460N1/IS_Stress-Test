@@ -35,4 +35,4 @@ For you, this will probably be different. To know which number you should use, j
 
 ***
 
-If this file is spread among other hosts, and executed at the same time, it can simulate a DDoS attach. Not a thing I recommend to do, just mentioning that it could be done.
+If this file is spread among other hosts, edited a little bit and executed at the same time, it can simulate a DDoS attack. That's not something I recommend doing, just thinking out loud.
