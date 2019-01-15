@@ -4,7 +4,10 @@ Detyre ne Internet Security per krijim te nje vegle qe mundeson stress testing n
 
 Lejohet perdorimi i pakufizuar i skriptes, me te vetmin kusht qe te mos keqperdoret.
 
-https://img.shields.io/github/license/460N1/IS_SulmimDOS.svg
+<img src="https://img.shields.io/github/license/460N1/IS_SulmimDOS.svg">
+<img src="https://david-dm.org/axetroy/github-size-badge.svg">
+<img src="https://img.shields.io/github/languages/code-size/badges/shields.svg">
+<img src="https://img.shields.io/github/release/qubyte/rubidium.svg">
 
 Per RawCap.exe vlen kushtet e perdorimit te krijuesit te saj (https://www.netresec.com/?page=RawCap).
 
