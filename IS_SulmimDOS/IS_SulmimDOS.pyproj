@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>4229a1ec-4376-4ce6-a1d0-47363628af37</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ISAttack.py</StartupFile>
+    <StartupFile>ISStress.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="ISAttack.py" />
+    <Compile Include="ISStress.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -7,7 +7,7 @@ REM --- |    TASK: Developing Python application for site    |
 REM --- |                stress testing,   #6                |
 REM --- \****************************************************/
 
-	START cmd /c python ISAttack.py getintopc.com -q
+	START cmd /c python ISStress.py getintopc.com -q
 
 REM --- Creating new concurrent process.
 REM --- Calling Python script and setting target.
