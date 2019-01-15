@@ -15,7 +15,7 @@ import sys
 import time
 
 #mundesimi i perfshirjes te argumenteve ne komanden python ISSulm.py
-parser = argparse.ArgumentParser(description="IS Sulmues - stress test tool i thjeshte.", add_help=False)
+parser = argparse.ArgumentParser(description="IS Stresser - stress test tool i thjeshte.", add_help=False)
 parser.add_argument('host', nargs="?", help="Caku qe do e stresojme.")
 parser.add_argument('-h', '--help', action='help', default=argparse.SUPPRESS, help='Shfaq kete pamje me instruksione.')
 parser.add_argument('-p', '--port', default=80, help="Porti i cakut (default 80).", type=int)
@@ -36,11 +36,6 @@ args = parser.parse_args()
 
 #handling gabime te mundshme ne user input
 if len(sys.argv) <= 1:
-    parser.print_help()
-    sys.exit()
-
-if not args.host:
-    print("Mungon caku!")
     parser.print_help()
     sys.exit()
 
