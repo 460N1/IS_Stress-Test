@@ -13,7 +13,7 @@ import ssl
 import sys
 import time
 
-parser = argparse.ArgumentParser(description="IS Attacker - simple stress test tool.", add_help=False)
+parser = argparse.ArgumentParser(description="IS Stresser - simple stress test tool.", add_help=False)
 parser.add_argument('host', nargs="?", help="Target of stress test.")
 parser.add_argument('-h', '--help', action='help', default=argparse.SUPPRESS, help='Show these instructions.')
 parser.add_argument('-p', '--port', default=80, help="Target port (default 80).", type=int)
@@ -31,11 +31,6 @@ parser.set_defaults(quiet=False)
 args = parser.parse_args()
 
 if len(sys.argv) <= 1:
-    parser.print_help()
-    sys.exit()
-
-if not args.host:
-    print("Target missing!")
     parser.print_help()
     sys.exit()
 
