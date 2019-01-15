@@ -1,10 +1,10 @@
-# Internet Security - Stress Testing DoS Tool <a href="#"><img src="https://www.freeiconspng.com/uploads/us-flag-icon-6.png" width=30 height=30></a> <a href="https://github.com/460N1/IS_SulmimDOS/tree/Shqip"><img src="https://cdn3.iconfinder.com/data/icons/finalflags/256/Albania-Flag.png" width=30 height=30></a>
+# Internet Security - Stress Testing DoS Tool <a href="#"><img src="https://www.freeiconspng.com/uploads/us-flag-icon-6.png" width=30 height=30></a> <a href="https://github.com/460N1/IS_Stress-Test/tree/Shqip"><img src="https://cdn3.iconfinder.com/data/icons/finalflags/256/Albania-Flag.png" width=30 height=30></a>
 
 [![](https://img.shields.io/badge/author-Agon%20Hoxha-red.svg)](https://www.github.com/460N1/)
-[![](https://img.shields.io/github/license/460N1/IS_Stress-Test.svg)](https://github.com/460N1/IS_SulmimDOS/blob/master/LICENSE)
-[![](https://img.shields.io/github/release-date/460N1/IS_Stress-Test.svg?kill_cache=1)](https://github.com/460N1/IS_SulmimDOS/releases)
-[![](https://img.shields.io/github/release/460N1/IS_Stress-Test.svg?kill_cache=1)](https://github.com/460N1/IS_SulmimDOS/archive/0.94.zip)
-[![](https://img.badgesize.io/460N1/IS_Stress-Test/master/IS_SulmimDOS/ISStress.py.svg?kill_cache=1)](https://github.com/460N1/IS_SulmimDOS/blob/master/IS_SulmimDOS/ISStress.py)
+[![](https://img.shields.io/github/license/460N1/IS_Stress-Test.svg)](https://github.com/460N1/IS_Stress-Test/blob/master/LICENSE)
+[![](https://img.shields.io/github/release-date/460N1/IS_Stress-Test.svg?kill_cache=1)](https://github.com/460N1/IS_Stress-Test/releases)
+[![](https://img.shields.io/github/release/460N1/IS_Stress-Test.svg?kill_cache=1)](https://github.com/460N1/IS_Stress-Test/archive/0.94.zip)
+[![](https://img.badgesize.io/460N1/IS_Stress-Test/master/IS_SulmimDOS/ISStress.py.svg?kill_cache=1)](https://github.com/460N1/IS_Stress-Test/blob/master/IS_Stress-Test/ISStress.py)
 
 This was a task in Internet Security for creating a tool which allows site stress testing.
 
@@ -13,7 +13,7 @@ You can do anything you want with these files, but MIT license applies.
 RawCap.exe has other use conditions (https://www.netresec.com/?page=RawCap).
 
 ```
-usage: ISAttack.py [-h] [-p PORT] [-s SOCKETS] [-d] [-r] [-q] [--https] [host]
+usage: ISStress.py [-h] [-p PORT] [-s SOCKETS] [-d] [-r] [-q] [--https] [host]
 
   host                              Host which we will stress test.
   -h, --help                        Shows these instructions.
