@@ -9,20 +9,14 @@ Per RawCap.exe vlen kushtet e perdorimit te krijuesit te saj (https://www.netres
 ```
 usage: ISSulm.py [-h] [-p PORT] [-s SOCKETS] [-d] [-r] [-q] [--https] [host]
 
-IS Sulmues - stress test tool i thjeshte.
-
-positional arguments:
-  host                  Caku qe do e stresojme.
-
-optional arguments:
-  -h, --help            Shfaq kete pamje me instruksione.
-  -p PORT, --port PORT  Porti i cakut (default 80).
-  -s SOCKETS, --sockets SOCKETS
-                        Numri i sockets qe do perdoret per test (default 100).
-  -d, --detaje          Shfaq informata shtese gjate ekzekutimit (verbose).
-  -r, --random-ua       Perdor user-agent te rastesishem.
-  -q, --qete            Nuk shfaq asgje gjate ekzekutimit.
-  --https               Perdor HTTPS per requests.
+  host                              Caku qe do e stresojme.
+  -h, --help                        Shfaq kete pamje me instruksione.
+  -p PORT, --port PORT              Porti i cakut (default 80).
+  -s SOCKETS, --sockets SOCKETS     Numri i sockets qe do perdoret per test (default 100).
+  -d, --detaje                      Shfaq informata shtese gjate ekzekutimit (verbose).
+  -r, --random-ua                   Perdor user-agent te rastesishem.
+  -q, --qete                        Nuk shfaq asgje gjate ekzekutimit.
+  --https                           Perdor HTTPS per requests.
 ```
 Perfshire eshte edhe nje .bat skript qe fillon sulmin dhe kapjen e paketave te derguara, si dhe hap file qe i permban ato paketa, sapo te ndalet packet capture.
 
