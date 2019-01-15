@@ -7,7 +7,7 @@ Lejohet perdorimi i pakufizuar i skriptes, me te vetmin kusht qe te mos keqperdo
 Per RawCap.exe vlen kushtet e perdorimit te krijuesit te saj (https://www.netresec.com/?page=RawCap).
 
 ```
-usage: ISSulm.py [-h] [-p PORT] [-s SOCKETS] [-d] [-r] [-q] [--https] [host]
+perdorimi: ISSulm.py [-h] [-p PORT] [-s SOCKETS] [-d] [-r] [-q] [--https] [host]
 
   host                              Caku qe do e stresojme.
   -h, --help                        Shfaq kete pamje me instruksione.
