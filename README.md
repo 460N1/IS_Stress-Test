@@ -1,6 +1,6 @@
-# Internet Security - Stress Testing DOS Tool
+# Internet Security - Stress Testing DOS Tool <a href="https://github.com/460N1/IS_SulmimDOS/tree/Shqip"><img src="https://cdn3.iconfinder.com/data/icons/finalflags/256/Albania-Flag.png" width=30 height=30></a><a href="#"><img src="https://www.freeiconspng.com/uploads/us-flag-icon-6.png" width=30 height=30></a>
 
-<img src="https://img.shields.io/badge/author-Agon%20Hoxha-red.svg"> <img src="https://img.shields.io/github/license/460N1/IS_SulmimDOS.svg">  [![](https://img.shields.io/github/release-date/460N1/IS_SulmimDOS.svg)](https://github.com/460N1/IS_SulmimDOS/)  ![](https://img.shields.io/github/release/460N1/IS_SulmimDOS.svg)  ![Size](https://github-size-badge.herokuapp.com/460N1/IS_SulmimDOS.svg) <a href="https://github.com/460N1/IS_SulmimDOS/tree/Shqip"><img src="https://img.shields.io/badge/langauge-change-black.svg"></a>
+<img src="https://img.shields.io/badge/author-Agon%20Hoxha-red.svg"> <img src="https://img.shields.io/github/license/460N1/IS_SulmimDOS.svg">  [![](https://img.shields.io/github/release-date/460N1/IS_SulmimDOS.svg)](https://github.com/460N1/IS_SulmimDOS/)  ![](https://img.shields.io/github/release/460N1/IS_SulmimDOS.svg)  ![Size](https://github-size-badge.herokuapp.com/460N1/IS_SulmimDOS.svg) 
 
 This was a task in Internet Security for creating a tool which allows site stress testing.
 
