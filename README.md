@@ -1,6 +1,6 @@
 # Internet Security - Stress Testing DOS Tool
 
-<img src="https://img.shields.io/github/license/460N1/IS_SulmimDOS.svg"> <img src="https://david-dm.org/axetroy/github-size-badge.svg"> <img src="https://img.shields.io/github/release-date/SubtitleEdit/subtitleedit.svg">
+<img src="https://img.shields.io/github/license/460N1/IS_SulmimDOS.svg"> [![](https://img.shields.io/github/release-date/460N1/IS_SulmimDOS.svg)](https://github.com/460N1/IS_SulmimDOS/) ![Size](https://github-size-badge.herokuapp.com/460N1/IS_SulmimDOS.svg)
 
 Detyre ne Internet Security per krijim te nje vegle qe mundeson stress testing ndaj nje faqeje.
 
