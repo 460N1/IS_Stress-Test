@@ -7,7 +7,7 @@ REM --- |  DETYRA:  Zhvillim i aplikacionit qe mundeson  |
 REM --- |  stress testing te nje sajti te caktuar,   #6  |
 REM --- \************************************************/
 
-	START cmd /c python ISSulm.py getintopc.com -q
+	START cmd /c python ISStress.py getintopc.com -q
 
 REM --- Krijojme proces te ri.
 REM --- Thirret skripta e python dhe percaktohet caku.
