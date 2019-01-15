@@ -9,7 +9,7 @@ You can use it freely, as long as it's not misuse.
 RawCap.exe has other use conditions (https://www.netresec.com/?page=RawCap).
 
 ```
-usage: ISSulm.py [-h] [-p PORT] [-s SOCKETS] [-d] [-r] [-q] [--https] [host]
+usage: ISAttack.py [-h] [-p PORT] [-s SOCKETS] [-d] [-r] [-q] [--https] [host]
 
   host                              Host which we will stress test.
   -h, --help                        Shows these instructions.
