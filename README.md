@@ -4,7 +4,7 @@
 [![](https://img.shields.io/github/license/460N1/IS_SulmimDOS.svg)](https://github.com/460N1/IS_SulmimDOS/blob/master/LICENSE)
 [![](https://img.shields.io/github/release-date/460N1/IS_SulmimDOS.svg)](https://github.com/460N1/IS_SulmimDOS/releases)
 [![](https://img.shields.io/github/release/460N1/IS_SulmimDOS.svg)](https://github.com/460N1/IS_SulmimDOS/archive/0.93.zip)
- 
+[![](https://img.badgesize.io/460N1/IS_SulmimDOS/master/IS_SulmimDOS/ISAttack.py.svg)](https://github.com/460N1/IS_SulmimDOS/blob/master/IS_SulmimDOS/ISAttack.py)
 
 This was a task in Internet Security for creating a tool which allows site stress testing.
 
