@@ -4,7 +4,7 @@
 
 This was a task in Internet Security for creating a tool which allows site stress testing.
 
-You can use it freely, as long as it's not misuse.
+You can do anything you want with these files, but MIT license applies.
 
 RawCap.exe has other use conditions (https://www.netresec.com/?page=RawCap).
 
