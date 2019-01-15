@@ -9,14 +9,16 @@ Per RawCap.exe vlen kushtet e perdorimit te krijuesit te saj (https://www.netres
 ```
 perdorimi: ISSulm.py [-h] [-p PORT] [-s SOCKETS] [-d] [-r] [-q] [--https] [host]
 
-  host                              Caku qe do e stresojme.
+  host                              Caku qe do e stresojme. I vetmi argument i domosdoshem.
   -h, --help                        Shfaq kete pamje me instruksione.
   -p PORT, --port PORT              Porti i cakut (default 80).
   -s SOCKETS, --sockets SOCKETS     Numri i sockets qe do perdoret per test (default 100).
+  
   -d, --detaje                      Shfaq informata shtese gjate ekzekutimit (verbose).
-  -r, --random-ua                   Perdor user-agent te rastesishem.
   -q, --qete                        Nuk shfaq asgje gjate ekzekutimit.
+  -r, --random-ua                   Perdor user-agent te rastesishem.
   --https                           Perdor HTTPS per requests.
+
 ```
 
 Perfshire eshte edhe nje .bat skript qe fillon sulmin dhe kapjen e paketave te derguara, si dhe hap file qe i permban ato paketa, sapo te ndalet packet capture.
