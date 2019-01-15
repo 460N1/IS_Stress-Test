@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/author-Agon%20Hoxha-red.svg)](https://www.github.com/460N1/)
 [![](https://img.shields.io/github/license/460N1/IS_SulmimDOS.svg)](https://github.com/460N1/IS_SulmimDOS/blob/master/LICENSE)
 [![](https://img.shields.io/github/release-date/460N1/IS_SulmimDOS.svg)](https://github.com/460N1/IS_SulmimDOS/releases)
-[![](https://img.shields.io/github/release/460N1/IS_SulmimDOS.svg)](https://github.com/460N1/IS_SulmimDOS/archive/0.93.zip)
+[![](https://img.shields.io/github/release/460N1/IS_SulmimDOS.svg)](https://github.com/460N1/IS_SulmimDOS/archive/0.94.zip)
 [![](https://img.badgesize.io/460N1/IS_SulmimDOS/master/IS_SulmimDOS/ISAttack.py.svg)](https://github.com/460N1/IS_SulmimDOS/blob/Shqip/IS_SulmimDOS/ISSulm.py)
 
 Detyre ne Internet Security per krijim te nje vegle qe mundeson stress testing ndaj nje faqeje.
