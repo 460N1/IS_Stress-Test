@@ -4,6 +4,8 @@ Detyre ne Internet Security per krijim te nje vegle qe mundeson stress testing n
 
 Lejohet perdorimi i pakufizuar i skriptes, me te vetmin kusht qe te mos keqperdoret.
 
+https://img.shields.io/github/license/460N1/IS_SulmimDOS.svg
+
 Per RawCap.exe vlen kushtet e perdorimit te krijuesit te saj (https://www.netresec.com/?page=RawCap).
 
 ```
