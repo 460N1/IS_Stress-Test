@@ -1,29 +1,29 @@
 @ECHO OFF
 
 REM --- /****************************************************\
-REM --- |         AUTORI:  Agon Hoxha,  140704110004         |
-REM --- |    LENDA: Siguria ne Internet,  VITI: 2018/2019    |
-REM --- |    DETYRA:  Zhvillim i aplikacionit qe mundeson    |
-REM --- |    stress testing te nje sajti te caktuar,   #6    |
+REM --- |         AUTHOR:  Agon Hoxha,  140704110004         |
+REM --- |    SUBJECT: Internet Security,  VITI: 2018/2019    |
+REM --- |    TASK: Developing Python application for site    |
+REM --- |                stress testing,   #6                |
 REM --- \****************************************************/
 
-	START cmd /c python ISSulm.py getintopc.com -q
+	START cmd /c python ISAttack.py getintopc.com -q
 
-REM --- Krijojme proces te ri.
-REM --- Thirret skripta e python dhe percaktohet caku.
-REM --- Perdorim mode te qete (pa shfaq tekst).
-REM --- Per ndihme, ekzekuto sulmo.py --help nga cmd.
+REM --- Creating new concurrent process.
+REM --- Calling Python script and setting target.
+REM --- Using quiet mode (tool shows no output).
+REM --- For help, execute ISAttack.py --help from cmd.
 
-	RawCap.exe 4 Vertetimi.pcap
+	RawCap.exe 4 Proof.pcap
 
-REM --- Percakton network interface qe do t'e sniff RawCap.exe
-REM --- Ne nje host tjeter, kjo do mund te jete ndryshe.
-REM --- Percakton emrin e file ku ruhen paketat e derguara.
+REM --- Decides the network interface which RawCap.exe will sniff.
+REM --- For you, this command might be different.
+REM --- Decides the packet capture file name.
 
-	START Vertetimi.pcap
+	START Proof.pcap
 
-REM --- Ekzekutojme file qe te shohim paketat qe kemi derguar.
-REM --- Aspak e nevojshme, vetem te vertetojme se a kemi qene
-REM --- duke derguar paketa apo jo.
+REM --- Opens the file to show the captured packets.
+REM --- Last two commands are not needed for the tool,
+REM --- just to make sure that everything is working.
 
 EXIT
