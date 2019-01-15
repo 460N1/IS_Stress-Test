@@ -29,7 +29,8 @@ Mund t'e editosh, dhe t'e zevendesosh psh getintopc.com me url te faqes qe deshi
 
 Gjithashtu mund te nderrohet emri i file te packet capture, apo i vet .bat skriptes.
 
-
 Vemendje te madhe duhet t'i kushtuar RawCap.exe. Ne skript, numri 4 percakton interface qe eshte perdorur gjate zhvillimit.
 
 Per ju, me gjase do jete ndryshe. Per t'e pare se cili numer do duhej te ishte ne vend te 4 per ju, ekzekuto vetem RawCap.exe dhe shiko cilin numer e ka WiFi interface (nese do perdorni WiFi) apo cilin numer e ka Ethernet interface (nese do e perdorni Ethernet). Numrin 4 zevendesojeni me numrin qe e zgjedhni.
+
+Nese shperndahet neper hosts te ndryshem dhe ekzekutohet komanda e njejte ne ndonje menyre, mundesohet DDoS sulm. Nuk e rekomandoj aspak, thjeshte eshte e mundshme.
