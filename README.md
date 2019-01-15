@@ -1,6 +1,6 @@
 # Siguria ne Internet - Vegel per Site Stres Test <a href="#"><img src="https://cdn3.iconfinder.com/data/icons/finalflags/256/Albania-Flag.png" width=30 height=30></a> <a href="https://github.com/460N1/IS_SulmimDOS"><img src="https://www.freeiconspng.com/uploads/us-flag-icon-6.png" width=30 height=30></a>
 
-<img src="https://img.shields.io/badge/author-Agon%20Hoxha-red.svg"> <img src="https://img.shields.io/github/license/460N1/IS_SulmimDOS.svg">  [![](https://img.shields.io/github/release-date/460N1/IS_SulmimDOS.svg)](https://github.com/460N1/IS_SulmimDOS/)  ![](https://img.shields.io/github/release/460N1/IS_SulmimDOS.svg)  ![Size](https://github-size-badge.herokuapp.com/460N1/IS_SulmimDOS.svg) <a href="https://github.com/460N1/IS_SulmimDOS"><img src="https://img.shields.io/badge/ndrysho-gjuhen-black.svg"></a>
+<img src="https://img.shields.io/badge/author-Agon%20Hoxha-red.svg"> <img src="https://img.shields.io/github/license/460N1/IS_SulmimDOS.svg">  [![](https://img.shields.io/github/release-date/460N1/IS_SulmimDOS.svg)](https://github.com/460N1/IS_SulmimDOS/)  ![](https://img.shields.io/github/release/460N1/IS_SulmimDOS.svg)  ![Size](https://github-size-badge.herokuapp.com/460N1/IS_SulmimDOS.svg)
 
 Detyre ne Internet Security per krijim te nje vegle qe mundeson stress testing ndaj nje faqeje.
 
