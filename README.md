@@ -1,10 +1,12 @@
 # Siguria ne Internet - Vegel per Site Stres Test <a href="#"><img src="https://cdn3.iconfinder.com/data/icons/finalflags/256/Albania-Flag.png" width=30 height=30></a> <a href="https://github.com/460N1/IS_SulmimDOS"><img src="https://www.freeiconspng.com/uploads/us-flag-icon-6.png" width=30 height=30></a>
 
 [![](https://img.shields.io/badge/author-Agon%20Hoxha-red.svg)](https://www.github.com/460N1/)
-[![](https://img.shields.io/github/license/460N1/IS_SulmimDOS.svg)](https://github.com/460N1/IS_SulmimDOS/blob/master/LICENSE)
-[![](https://img.shields.io/github/release-date/460N1/IS_SulmimDOS.svg)](https://github.com/460N1/IS_SulmimDOS/releases)
-[![](https://img.shields.io/github/release/460N1/IS_SulmimDOS.svg)](https://github.com/460N1/IS_SulmimDOS/archive/0.94.zip)
-[![](https://img.badgesize.io/460N1/IS_SulmimDOS/master/IS_SulmimDOS/ISAttack.py.svg)](https://github.com/460N1/IS_SulmimDOS/blob/Shqip/IS_SulmimDOS/ISSulm.py)
+[![](https://img.shields.io/github/license/460N1/IS_Stress-Test.svg)](https://github.com/460N1/IS_SulmimDOS/blob/master/LICENSE)
+[![](https://img.shields.io/github/release-date/460N1/IS_Stress-Test.svg?kill_cache=1)](https://github.com/460N1/IS_SulmimDOS/releases)
+[![](https://img.shields.io/github/release/460N1/IS_Stress-Test.svg?kill_cache=1)](https://github.com/460N1/IS_SulmimDOS/archive/0.94.zip)
+[![](https://img.badgesize.io/460N1/IS_Stress-Test/Shqip/IS_SulmimDOS/ISStress.py.svg?kill_cache=1)](https://github.com/460N1/IS_SulmimDOS/blob/Shqip/IS_SulmimDOS/ISStress.py)
+
+
 
 Detyre ne Internet Security per krijim te nje vegle qe mundeson stress testing ndaj nje faqeje.
 
