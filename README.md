@@ -4,7 +4,7 @@
 [![](https://img.shields.io/github/license/460N1/IS_Stress-Test.svg)](https://github.com/460N1/IS_Stress-Test/blob/master/LICENSE)
 [![](https://img.shields.io/github/release-date/460N1/IS_Stress-Test.svg?kill_cache=1)](https://github.com/460N1/IS_Stress-Test/releases)
 [![](https://img.shields.io/github/release/460N1/IS_Stress-Test.svg?kill_cache=1)](https://github.com/460N1/IS_Stress-Test/archive/0.94.zip)
-[![](https://img.badgesize.io/460N1/IS_Stress-Test/master/IS_SulmimDOS/ISStress.py.svg?kill_cache=1)](https://github.com/460N1/IS_Stress-Test/blob/master/IS_Stress-Test/ISStress.py)
+[![](https://img.badgesize.io/460N1/IS_Stress-Test/master/IS_SulmimDOS/ISStress.py.svg?kill_cache=1)](https://github.com/460N1/IS_Stress-Test/blob/master/IS_SulmimDOS/ISStress.py)
 
 This was a task in Internet Security for creating a tool which allows site stress testing.
 
