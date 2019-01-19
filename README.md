@@ -33,7 +33,7 @@ perdorimi: ISStress.py [-h] [-p PORT] [-s SOCKETS] [-d] [-r] [-q] [--https] [hos
 
 Perfshire eshte edhe nje .bat skript qe fillon sulmin dhe kapjen e paketave te derguara, si dhe hap file qe i permban ato paketa, sapo te ndalet packet capture.
 
-Mund t'e editosh, dhe t'e zevendesosh psh getintopc.com me url te faqes qe deshiron t'e sulmojsh, dhe te shtojsh argumente nbaze te manualit te perdorimit te ISSulm.py.
+Mund t'e editosh, dhe t'e zevendesosh psh getintopc.com me url te faqes qe deshiron t'e sulmojsh, dhe te shtojsh argumente nbaze te manualit te perdorimit te ISStress.py.
 
 Gjithashtu mund te nderrohet emri i file te packet capture, apo i vet .bat skriptes.
 
