@@ -31,7 +31,7 @@ usage: ISStress.py [-h] [-p PORT] [-s SOCKETS] [-d] [-r] [-q] [--https] [host]
 
 Included is also a .bat file which will start the attack, and start packet capture at the same time. It also opens the packet capture (.pcap) file as soon as packet capture ends.
 
-Everything can be edited. In the batch file, getintopc.com is the target, you can replace it with any site you want, and add arguments based on the usage of ISAttack.py above.
+Everything can be edited. In the batch file, getintopc.com is the target, you can replace it with any site you want, and add arguments based on the usage of ISStress.py above.
 
 Special attention must be paid to RawCap.exe. In the batch script, the number 4 represents the interface which was used during development.
 
