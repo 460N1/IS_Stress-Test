@@ -1,0 +1,685 @@
+[{
+    "date": "2020-02-08T00:00:00Z",
+    "tested": 1,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-02-22T00:00:00Z",
+    "tested": 2,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-02-24T00:00:00Z",
+    "tested": 5,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-02-25T00:00:00Z",
+    "tested": 3,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-02-26T00:00:00Z",
+    "tested": 6,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-02-27T00:00:00Z",
+    "tested": 7,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-02-28T00:00:00Z",
+    "tested": 8,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-02-29T00:00:00Z",
+    "tested": 2,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-02T00:00:00Z",
+    "tested": 4,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-03T00:00:00Z",
+    "tested": 7,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-04T00:00:00Z",
+    "tested": 8,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-05T00:00:00Z",
+    "tested": 1,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-06T00:00:00Z",
+    "tested": 4,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-09T00:00:00Z",
+    "tested": 5,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-10T00:00:00Z",
+    "tested": 14,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-11T00:00:00Z",
+    "tested": 7,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-12T00:00:00Z",
+    "tested": 11,
+    "confirmed": 0,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-13T00:00:00Z",
+    "tested": 26, 
+    "confirmed": 2,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-14T00:00:00Z",
+    "tested": 99,
+    "confirmed": 3,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-15T00:00:00Z",
+    "tested": 27,
+    "confirmed": 8,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-16T00:00:00Z",
+    "tested": 24,
+    "confirmed": 3,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-17T00:00:00Z",
+    "tested": 13,
+    "confirmed": 3,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-18T00:00:00Z",
+    "tested": 35,
+    "confirmed": 1,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-19T00:00:00Z",
+    "tested": 21,
+    "confirmed": 1,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-20T00:00:00Z",
+    "tested": 77,
+    "confirmed": 3,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-21T00:00:00Z",
+    "tested": 150,
+    "confirmed": 7,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-22T00:00:00Z",
+    "tested": 10,
+    "confirmed": 2,
+    "recovered": 0,
+    "deaths": 1
+}, {
+    "date": "2020-03-23T00:00:00Z",
+    "tested": 113,
+    "confirmed": 28,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-24T00:00:00Z",
+    "tested": 42,
+    "confirmed": 2,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-25T00:00:00Z",
+    "tested": 34,
+    "confirmed": 8,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-26T00:00:00Z",
+    "tested": 119,
+    "confirmed": 15,
+    "recovered": 1,
+    "deaths": 0
+}, {
+    "date": "2020-03-27T00:00:00Z",
+    "tested": 106,
+    "confirmed": 2,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-28T00:00:00Z",
+    "tested": 46,
+    "confirmed": 3,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-29T00:00:00Z",
+    "tested": 45,
+    "confirmed": 3,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-30T00:00:00Z",
+    "tested": 69,
+    "confirmed": 12,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-03-31T00:00:00Z",
+    "tested": 116,
+    "confirmed": 6,
+    "recovered": 5,
+    "deaths": 0
+}, {
+    "date": "2020-04-01T00:00:00Z",
+    "tested": 113,
+    "confirmed": 13,
+    "recovered": 4,
+    "deaths": 0
+}, {
+    "date": "2020-04-02T00:00:00Z",
+    "tested": 120,
+    "confirmed": 1,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-04-03T00:00:00Z",
+    "tested": 243,
+    "confirmed": 9,
+    "recovered": 6,
+    "deaths": 0
+}, {
+    "date": "2020-04-04T00:00:00Z",
+    "tested": 128,
+    "confirmed": 5,
+    "recovered": 7,
+    "deaths": 0
+}, {
+    "date": "2020-04-05T00:00:00Z",
+    "tested": 93,
+    "confirmed": 5,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-04-06T00:00:00Z",
+    "tested": 129,
+    "confirmed": 20,
+    "recovered": 1,
+    "deaths": 2
+}, {
+    "date": "2020-04-07T00:00:00Z",
+    "tested": 259,
+    "confirmed": 19,
+    "recovered": 6,
+    "deaths": 2
+}, {
+    "date": "2020-04-08T00:00:00Z",
+    "tested": 218,
+    "confirmed": 40,
+    "recovered": 7,
+    "deaths": 1
+}, {
+    "date": "2020-04-09T00:00:00Z",
+    "tested": 117,
+    "confirmed": 3,
+    "recovered": 1,
+    "deaths": 1
+}, {
+    "date": "2020-04-10T00:00:00Z",
+    "tested": 189,
+    "confirmed": 23,
+    "recovered": 14,
+    "deaths": 0
+}, {
+    "date": "2020-04-11T00:00:00Z",
+    "tested": 130,
+    "confirmed": 33,
+    "recovered": 6,
+    "deaths": 0
+}, {
+    "date": "2020-04-12T00:00:00Z",
+    "tested": 250,
+    "confirmed": 79,
+    "recovered": 1,
+    "deaths": 0
+}, {
+    "date": "2020-04-13T00:00:00Z",
+    "tested": 154,
+    "confirmed": 15,
+    "recovered": 4,
+    "deaths": 1
+}, {
+    "date": "2020-04-14T00:00:00Z",
+    "tested": 137,
+    "confirmed": 10,
+    "recovered": 3,
+    "deaths": 0
+}, {
+    "date": "2020-04-15T00:00:00Z",
+    "tested": 173,
+    "confirmed": 36,
+    "recovered": 5,
+    "deaths": 1
+}, {
+    "date": "2020-04-16T00:00:00Z",
+    "tested": 195,
+    "confirmed": 26,
+    "recovered": 8,
+    "deaths": 2
+}, {
+    "date": "2020-04-17T00:00:00Z",
+    "tested": 209,
+    "confirmed": 31,
+    "recovered": 5,
+    "deaths": 1
+}, {
+    "date": "2020-04-18T00:00:00Z",
+    "tested": 242,
+    "confirmed": 30,
+    "recovered": 9,
+    "deaths": 0
+}, {
+    "date": "2020-04-19T00:00:00Z",
+    "tested": 295,
+    "confirmed": 51,
+    "recovered": 9,
+    "deaths": 0
+}, {
+    "date": "2020-04-20T00:00:00Z",
+    "tested": 353,
+    "confirmed": 37,
+    "recovered": 21,
+    "deaths": 3
+}, {
+    "date": "2020-04-21T00:00:00Z",
+    "tested": 191,
+    "confirmed": 6,
+    "recovered": 5,
+    "deaths": 3
+}, {
+    "date": "2020-04-22T00:00:00Z",
+    "tested": 172,
+    "confirmed": 26,
+    "recovered": 10,
+    "deaths": 0
+}, {
+    "date": "2020-04-23T00:00:00Z",
+    "tested": 255,
+    "confirmed": 39,
+    "recovered": 21,
+    "deaths": 1
+}, {
+    "date": "2020-04-24T00:00:00Z",
+    "tested": 263,
+    "confirmed": 34,
+    "recovered": 3,
+    "deaths": 0
+}, {
+    "date": "2020-04-25T00:00:00Z",
+    "tested": 292,
+    "confirmed": 28,
+    "recovered": 3,
+    "deaths": 1
+}, {
+    "date": "2020-04-26T00:00:00Z",
+    "tested": 297,
+    "confirmed": 32,
+    "recovered": 1,
+    "deaths": 1
+}, {
+    "date": "2020-04-27T00:00:00Z",
+    "tested": 226,
+    "confirmed": 17,
+    "recovered": 35,
+    "deaths": 1
+}, {
+    "date": "2020-04-28T00:00:00Z",
+    "tested": 250,
+    "confirmed": 10,
+    "recovered": 31,
+    "deaths": 0
+}, {
+    "date": "2020-04-29T00:00:00Z",
+    "tested": 225,
+    "confirmed": 9,
+    "recovered": 17,
+    "deaths": 0
+}, {
+    "date": "2020-04-30T00:00:00Z",
+    "tested": 243,
+    "confirmed": 7,
+    "recovered": 22,
+    "deaths": 0
+}, {
+    "date": "2020-05-01T00:00:00Z",
+    "tested": 221,
+    "confirmed": 7,
+    "recovered": 27,
+    "deaths": 0
+}, {
+    "date": "2020-05-02T00:00:00Z",
+    "tested": 231,
+    "confirmed": 10,
+    "recovered": 38,
+    "deaths": 0
+}, {
+    "date": "2020-05-03T00:00:00Z",
+    "tested": 412,
+    "confirmed": 28,
+    "recovered": 45,
+    "deaths": 3
+}, {
+    "date": "2020-05-04T00:00:00Z",
+    "tested": 254,
+    "confirmed": 4,
+    "recovered": 22,
+    "deaths": 1
+}, {
+    "date": "2020-05-05T00:00:00Z",
+    "tested": 220,
+    "confirmed": 1,
+    "recovered": 87,
+    "deaths": 0
+}, {
+    "date": "2020-05-06T00:00:00Z",
+    "tested": 324,
+    "confirmed": 4,
+    "recovered": 43,
+    "deaths": 0
+}, {
+    "date": "2020-05-07T00:00:00Z",
+    "tested": 229,
+    "confirmed": 1,
+    "recovered": 28,
+    "deaths": 1
+}, {
+    "date": "2020-05-08T00:00:00Z",
+    "tested": 243,
+    "confirmed": 1,
+    "recovered": 61,
+    "deaths": 1
+}, {
+    "date": "2020-05-09T00:00:00Z",
+    "tested": 177,
+    "confirmed": 8,
+    "recovered": 31,
+    "deaths": 0
+}, {
+    "date": "2020-05-10T00:00:00Z",
+    "tested": 200,
+    "confirmed": 14,
+    "recovered": 2,
+    "deaths": 0
+}, {
+    "date": "2020-05-11T00:00:00Z",
+    "tested": 196,
+    "confirmed": 11,
+    "recovered": 2,
+    "deaths": 0
+}, {
+    "date": "2020-05-12T00:00:00Z",
+    "tested": 257,
+    "confirmed": 24,
+    "recovered": 14,
+    "deaths": 1
+}, {
+    "date": "2020-05-13T00:00:00Z",
+    "tested": 255,
+    "confirmed": 8,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-05-14T00:00:00Z",
+    "tested": 300,
+    "confirmed": 18,
+    "recovered": 19,
+    "deaths": 0
+}, {
+    "date": "2020-05-15T00:00:00Z",
+    "tested": 236,
+    "confirmed": 10,
+    "recovered": 1,
+    "deaths": 0
+}, {
+    "date": "2020-05-16T00:00:00Z",
+    "tested": 420,
+    "confirmed": 23,
+    "recovered": 22,
+    "deaths": 0
+}, {
+    "date": "2020-05-17T00:00:00Z",
+    "tested": 202,
+    "confirmed": 7,
+    "recovered": 23,
+    "deaths": 0
+}, {
+    "date": "2020-05-18T00:00:00Z",
+    "tested": 200,
+    "confirmed": 3,
+    "recovered": 18,
+    "deaths": 0
+}, {
+    "date": "2020-05-19T00:00:00Z",
+    "tested": 211,
+    "confirmed": 1,
+    "recovered": 15,
+    "deaths": 0
+}, {
+    "date": "2020-05-20T00:00:00Z",
+    "tested": 208,
+    "confirmed": 14,
+    "recovered": 3,
+    "deaths": 0
+}, {
+    "date": "2020-05-21T00:00:00Z",
+    "tested": 145,
+    "confirmed": 1,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-05-22T00:00:00Z",
+    "tested": 267,
+    "confirmed": 21,
+    "recovered": 10,
+    "deaths": 0
+}, {
+    "date": "2020-05-23T00:00:00Z",
+    "tested": 306,
+    "confirmed": 7,
+    "recovered": 3,
+    "deaths": 0
+}, {
+    "date": "2020-05-24T00:00:00Z",
+    "tested": 138,
+    "confirmed": 0,
+    "recovered": 4,
+    "deaths": 0
+}, {
+    "date": "2020-05-25T00:00:00Z",
+    "tested": 243,
+    "confirmed": 6,
+    "recovered": 2,
+    "deaths": 1
+}, {
+    "date": "2020-05-26T00:00:00Z",
+    "tested": 220,
+    "confirmed": 9,
+    "recovered": 3,
+    "deaths": 0
+}, {
+    "date": "2020-05-27T00:00:00Z",
+    "tested": 267,
+    "confirmed": 1,
+    "recovered": 7,
+    "deaths": 0
+}, {
+    "date": "2020-05-28T00:00:00Z",
+    "tested": 332,
+    "confirmed": 4,
+    "recovered": 19,
+    "deaths": 0
+}, {
+    "date": "2020-05-29T00:00:00Z",
+    "tested": 311,
+    "confirmed": 12,
+    "recovered": 9,
+    "deaths": 0
+}, {
+    "date": "2020-05-30T00:00:00Z",
+    "tested": 220,
+    "confirmed": 6,
+    "recovered": 12,
+    "deaths": 0
+}, {
+    "date": "2020-05-31T00:00:00Z",
+    "tested": 113,
+    "confirmed": 13,
+    "recovered": 2,
+    "deaths": 0
+}, {
+    "date": "2020-06-01T00:00:00Z",
+    "tested": 172,
+    "confirmed": 27,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-06-02T00:00:00Z",
+    "tested": 193,
+    "confirmed": 13,
+    "recovered": 4,
+    "deaths": 0
+}, {
+    "date": "2020-06-03T00:00:00Z",
+    "tested": 253,
+    "confirmed": 19,
+    "recovered": 24,
+    "deaths": 0
+}, {
+    "date": "2020-06-04T00:00:00Z",
+    "tested": 294,
+    "confirmed": 5,
+    "recovered": 3,
+    "deaths": 0
+}, {
+    "date": "2020-06-05T00:00:00Z",
+    "tested": 297,
+    "confirmed": 11,
+    "recovered": 2,
+    "deaths": 0
+}, {
+    "date": "2020-06-06T00:00:00Z",
+    "tested": 201,
+    "confirmed": 36,
+    "recovered": 8,
+    "deaths": 0
+}, {
+    "date": "2020-06-07T00:00:00Z",
+    "tested": 296,
+    "confirmed": 40,
+    "recovered": 6,
+    "deaths": 1
+}, {
+    "date": "2020-06-08T00:00:00Z",
+    "tested": 231,
+    "confirmed": 29,
+    "recovered": 22,
+    "deaths": 0
+}, {
+    "date": "2020-06-09T00:00:00Z",
+    "tested": 294,
+    "confirmed": 6,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-06-10T00:00:00Z",
+    "tested": 280,
+    "confirmed": 29,
+    "recovered": 1,
+    "deaths": 0
+}, {
+    "date": "2020-06-11T00:00:00Z",
+    "tested": 228,
+    "confirmed": 28,
+    "recovered": 8,
+    "deaths": 0
+}, {
+    "date": "2020-06-12T00:00:00Z",
+    "tested": 227,
+    "confirmed": 58,
+    "recovered": 0,
+    "deaths": 0
+}, {
+    "date": "2020-06-13T00:00:00Z",
+    "tested": 313,
+    "confirmed": 53,
+    "recovered": 7,
+    "deaths": 1
+}, {
+    "date": "2020-06-14T00:00:00Z",
+    "tested": 265,
+    "confirmed": 49,
+    "recovered": 25,
+    "deaths": 1
+}, {
+    "date": "2020-06-15T00:00:00Z",
+    "tested": 385,
+    "confirmed": 129,
+    "recovered": 10,
+    "deaths": 0
+}, {
+    "date": "2020-06-16T00:00:00Z",
+    "tested": 397,
+    "confirmed": 141,
+    "recovered": 5,
+    "deaths": 1
+}, {
+    "date": "2020-06-17T00:00:00Z",
+    "tested": 437,
+    "confirmed": 77,
+    "recovered": 0,
+    "deaths": 0
+}]
